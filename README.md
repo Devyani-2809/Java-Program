@@ -36,4 +36,16 @@ Daily-Practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Devyani-2809/Java-Program/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1399-count-largest-group](https://github.com/Devyani-2809/Java-Program/tree/main/1399-count-largest-group/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1399-count-largest-group](https://github.com/Devyani-2809/Java-Program/tree/main/1399-count-largest-group/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1399-count-largest-group](https://github.com/Devyani-2809/Java-Program/tree/main/1399-count-largest-group/) | Easy |
 <!---LeetCode Topics End-->
